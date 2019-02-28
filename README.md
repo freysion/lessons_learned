@@ -19,7 +19,7 @@ I have learned a good number of things at Bloc.io so far. Here are some of the t
   * Frameworks are there to help developers develop faster by giving them a starting point of files and folders of standardized code.
 
 **3. Tools of the Trade**
-  * You need certain tools to develop:
+  * We need certain tools to develop:
     * Operating System (i.e., macOS, Windows, Linux)
     * Web Browser (i.e, Chrome)
     * Text editor (i.e., Atom)
@@ -34,3 +34,7 @@ I have learned a good number of things at Bloc.io so far. Here are some of the t
   * Github is a distributed version control system that is commonly used for commercial development.
   * Git allows developers to see a timeline of their changes and progressions on their development project.
   * Git is primarily interacted with through the Terminal and Github by using Git commands within a Git repository.
+  * Learning how to interact with Github using the git commands.
+
+
+  And there is a bunch more I am still planning on learning!
